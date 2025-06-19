@@ -19,7 +19,7 @@ Sử dụng API giả lập từ [JSONPlaceholder](https://jsonplaceholder.typic
 
 ### 📖 GET /posts – Lấy danh sách bài viết
 
-![GET request screenshot](./images/get-posts.png)
+![GET request screenshot](./image/get-posts.png)
 
 🔎 **Mục đích**: Truy xuất danh sách tất cả bài viết trong hệ thống.
 
@@ -31,7 +31,7 @@ Sử dụng API giả lập từ [JSONPlaceholder](https://jsonplaceholder.typic
 
 ### ➕ POST /posts – Tạo bài viết mới
 
-![POST request screenshot](./images/create-post-example.png)
+![POST request screenshot](./image/create-post.png)
 
 🔎 **Mục đích**: Gửi dữ liệu để tạo một bài viết mới trên server.
 
@@ -48,7 +48,7 @@ Sử dụng API giả lập từ [JSONPlaceholder](https://jsonplaceholder.typic
 
 ### 🔄 PATCH /posts/1 – Cập nhật một phần bài viết
 
-![PATCH request screenshot](./images/update-post-example.png)
+![PATCH request screenshot](./image/update-post.png)
 
 🔎 **Mục đích**: Cập nhật một phần thông tin của bài viết với ID xác định.
 
@@ -63,7 +63,7 @@ Sử dụng API giả lập từ [JSONPlaceholder](https://jsonplaceholder.typic
 
 ### 🗑️ DELETE /posts/1 – Xóa bài viết
 
-![DELETE request screenshot](./images/delete-post-example.png)
+![DELETE request screenshot](./image/delete-post.png)
 
 🔎 **Mục đích**: Xóa bài viết với ID cụ thể khỏi hệ thống (API giả lập).
 
