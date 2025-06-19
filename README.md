@@ -89,9 +89,3 @@ pm.test("Xóa bài viết thành công", () => {
 - Làm quen với cách gửi và nhận dữ liệu JSON qua API RESTful
 
 🌟 Sử dụng API giả lập như `jsonplaceholder.typicode.com` giúp thực hành an toàn, không ảnh hưởng đến dữ liệu thực tế.
-
-📝 Collection Postman đã được xuất và tài liệu `api_testing_guide.md` này mô tả rõ các bước, kèm ảnh minh họa và kết quả kiểm thử.
-
----
-
-📁 Tài liệu này có thể được dùng làm tài liệu tham khảo hoặc tái sử dụng cho các bài kiểm thử API trong tương lai.
