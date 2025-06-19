@@ -19,7 +19,7 @@ Sử dụng API giả lập từ [JSONPlaceholder](https://jsonplaceholder.typic
 
 ### 📖 GET /posts – Lấy danh sách bài viết
 
-![GET request screenshot](./images/get-posts-example.png)
+![GET request screenshot](./images/get-posts.png)
 
 🔎 **Mục đích**: Truy xuất danh sách tất cả bài viết trong hệ thống.
 
